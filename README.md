@@ -1,2 +1,2 @@
 https://fixer.io/
-selam
+selamlar
