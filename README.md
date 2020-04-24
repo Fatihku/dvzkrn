@@ -1,2 +1,2 @@
 https://fixer.io/
-selamlar
+https://collectapi.com/tr/api/economy/altin-doviz-ve-borsa-api
